@@ -1,0 +1,18 @@
+{
+  "name": "Untitled application 2",
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F5D1D1",
+  "icon": "rainy-weather",
+  "slug": "untitled-application-2",
+  "evaluationVersion": 2,
+  "publishedModeThemeId": "61d2c241de5610038e355e2f",
+  "editModeThemeId": "61d2c241de5610038e355e2f",
+  "createdAt": {
+    "seconds": 1641973301,
+    "nanos": 954000000
+  },
+  "deleted": false
+}
